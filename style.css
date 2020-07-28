@@ -1,4 +1,14 @@
 #mycanvas {
-    height: 1000px;
-    width: 1000px;
+    height: 400px;
+    width: 400px;
+    border: 10px solid cornflowerblue;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
